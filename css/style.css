@@ -215,11 +215,13 @@ img.svg{
 }
 .edina_tm_navigation_wrap .social_icons_wrap > ul > li a:hover{color: #ed2629;}
 .rotate {
-	-webkit-transform:rotate(90deg);
+	/* -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   -o-transform: rotate(90deg);
-  transform: rotate(90deg);
+  transform: rotate(90deg); */
+  width: 12VW;
+  height: 8VH;
   }
 /*---------------------------------------------------*/
 /*	03) EDINA MOBILE MENU
