@@ -1777,4 +1777,19 @@ img.svg{
 	.edina_tm_main_demos_list_wrap ul{margin-left: 0px;}
 	.edina_tm_main_demos_list_wrap ul li{width: 100%;padding: 0px;}
 	.container{padding: 0px 20px !important;}
+	.course__img {
+		background-image: url(..//img/course-img/1.png)!important;
+		width: 90vw!important;
+		height: 30vh!important;
+		background-repeat: no-repeat;
+		background-size: cover!important;
+	}
 }	
+
+/*__________________________________ course section___________________*/
+.course__img {
+	background-image: url(..//img/course-img/1.png);
+	width: 50vw;
+	height: 40vh;
+	background-size: cover;
+}
