@@ -1789,8 +1789,8 @@ img.svg{
 /*__________________________________ course section___________________*/
 .course__img {
 	background-image: url(..//img/course-img/1.png);
-	width: 60vw;
-	height: 50vh;
+	width: 600px;
+	height: 400px;
 	background-size: cover;
 }
 
